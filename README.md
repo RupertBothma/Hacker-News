@@ -8,6 +8,7 @@
 </p>
 
 This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
+
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
     <img alt="Hacker News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
@@ -137,5 +138,3 @@ NextJS lets us make a powerful static website but you need to consider if you ne
 ## Contributing
 Pull requests are welcome. File an issue for ideas, conversation or feedback.
 
-### Community
-After you ★Star this project, follow [@ClintonDAnnolfo](https://twitter.com/clintondannolfo) on Twitter.
