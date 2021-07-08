@@ -44,5 +44,5 @@ EXPOSE 3000
 # Start the application
 CMD npm run start:prod
 
-HEALTHCHECK --interval=30s --timeout=12s --start-period=30s \  
+HEALTHCHECK --interval=30s --timeout=12s --start-period=30s \
   CMD node /healthcheck.js

@@ -59,21 +59,21 @@ exports[`Comment component renders at different indentation levels 1`] = `
                     <span
                       class="age"
                     >
-                       
+
                       <a
                         href="/item?id=15289630"
                       >
                         1 day ago
                       </a>
                     </span>
-                     
+
                     <span
                       id="unv_15238246"
                     />
                     <span
                       class="par"
                     />
-                     
+
                     <a
                       class="togg"
                       id="24"

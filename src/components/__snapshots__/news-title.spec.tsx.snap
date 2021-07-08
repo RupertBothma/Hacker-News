@@ -46,7 +46,7 @@ exports[`NewsTitle component renders news item properties passed in as props 1`]
         <span
           class="sitebit comhead"
         >
-           
+
           (
           <a
             href="from?site=www.nytimes.com"

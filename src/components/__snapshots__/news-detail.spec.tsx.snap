@@ -16,14 +16,14 @@ exports[`NewsFeed component renders news items passed in as props 1`] = `
           171
            points
         </span>
-         by 
+         by
         <a
           class="hnuser"
           href="/user?id=hvo"
         >
           hvo
         </a>
-         
+
         <span
           class="age"
         >
@@ -33,13 +33,13 @@ exports[`NewsFeed component renders news items passed in as props 1`] = `
             14 days ago
           </a>
         </span>
-         | 
+         |
         <a
           style="cursor: pointer;"
         >
           hide
         </a>
-         | 
+         |
         <a
           href="/item?id=1224"
         >
