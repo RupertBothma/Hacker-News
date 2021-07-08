@@ -3,9 +3,9 @@
 var http = require('http');
 
 var options = {
-  host : 'localhost',
-  port : '3000',
-  timeout : 2000,
+  host: 'localhost',
+  port: '3000',
+  timeout: 2000,
 };
 
 var request = http.request(options, (res) => {
@@ -18,7 +18,7 @@ var request = http.request(options, (res) => {
   }
 });
 
-request.on('error', function(err) {
+request.on('error', function (err) {
   console.log('ERROR');
   process.exit(1);
 });
