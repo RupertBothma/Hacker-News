@@ -36,7 +36,7 @@ export const typeDefs = gql(`
   enum FeedType {
     # Sort by a combination of freshness and score, using an algorithm (Could use Reddit's)
     top
-  
+
     # Newest entries first
     new
 
@@ -52,7 +52,7 @@ export const typeDefs = gql(`
     # Job listings
     job
   }
-  
+
   type NewsItem {
 
     id: Int!
@@ -113,7 +113,7 @@ export const typeDefs = gql(`
     lastName: String
 
     likes: [Int]!
-    
+
     posts: [Int]!
   }
 
@@ -130,7 +130,7 @@ export const typeDefs = gql(`
       first: Int
 
       # The number of items to skip, for pagination
-      skip: Int,    
+      skip: Int,
     ): [NewsItem]
 
     # The currently logged in user or null if not logged in
